@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Still A Friend Of Mine",
+  "base_artist": "Incognito",
+  "createdAt": "2025-12-30T02:22:00.591698Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Still A Friend Of Mine",
+      "artist": "Incognito",
+      "has_synced": false,
+      "path": "select/01_Still_A_Friend_Of_Mine_Incognito.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Still a Friend of Mine",
+      "artist": "Incognito",
+      "has_synced": false,
+      "path": "select/02_Still_a_Friend_of_Mine_Incognito.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Still A Friend Of Mine",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/03_Still_A_Friend_Of_Mine_Incognito.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Still A Friend Of Mine - Acapella",
+      "artist": "Incognito",
+      "has_synced": false,
+      "path": "select/04_Still_A_Friend_Of_Mine_-_Acapella_Incognito.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Still a Friend of Mine",
+      "artist": "Monalisa Twins",
+      "has_synced": true,
+      "path": "select/05_Still_a_Friend_of_Mine_Monalisa_Twins.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Still A Friend Of Mine (Accapella)",
+      "artist": "Incognito",
+      "has_synced": false,
+      "path": "select/06_Still_A_Friend_Of_Mine_(Accapella)_Incognito.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Still A Friend Of Mine (Acapel",
+      "artist": "Incognito",
+      "has_synced": false,
+      "path": "select/07_Still_A_Friend_Of_Mine_(Acapel_Incognito.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Still a Friend of Mine",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/08_Still_a_Friend_of_Mine_Incognito.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Still a Friend of Mine (a cappella)",
+      "artist": "Incognito",
+      "has_synced": false,
+      "path": "select/09_Still_a_Friend_of_Mine_(a_cappella)_Incognito.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Still a friend of Mine",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/10_Still_a_friend_of_Mine_Incognito.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Is Still A Friend Of Mine",
+      "artist": "Gerard Joling",
+      "has_synced": false,
+      "path": "select/11_Love_Is_Still_A_Friend_Of_Mine_Gerard_Joling.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Still a Friend of Mine (Bluey's mix for 96)",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/12_Still_a_Friend_of_Mine_(Bluey's_mix_for_96)_Incognito.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Still a Friend of Mine",
+      "artist": "Incognito",
+      "has_synced": false,
+      "path": "select/pl_01_Still_a_Friend_of_Mine_Incognito.txt"
+    }
+  ]
+}
